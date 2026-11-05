@@ -1,2 +1,2 @@
 # DSA-Progress
-Documenting my journey towards becoming a Software Engineer through consistent DSA practice, problem-solving, and exploring the world of technology.
+An aspiring Software Engineer passionate about technology, problem-solving, and continuous learning. Tracking my DSA journey one problem at a time.
